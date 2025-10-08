@@ -65,4 +65,4 @@ KPIs & DAX Measures: Implemented to calculate key metrics like total revenue, av
 The Car Sales Dashboard serves as a comprehensive tool for analyzing automobile sales data and making strategic business decisions. It simplifies complex datasets into meaningful visual insights that can help improve sales strategies, identify new market opportunities, and enhance overall customer satisfaction. By leveraging the power of data visualization, businesses can better understand their performance and stay competitive in the rapidly evolving automotive industry.
 
 #OUTPUT:
-https://github.com/user-attachments/assets/2b93be40-ca64-4e89-b85a-3ddb74c44ff9
+<img width="1197" height="732" alt="Image" src="https://github.com/user-attachments/assets/2b93be40-ca64-4e89-b85a-3ddb74c44ff9" />
